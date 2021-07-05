@@ -1,2 +1,9 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+
+### Features of Stage 2:
+##### On Space button pressed, player gets a second chance to play
+##### Blocks vanish on coming in contact with my slingshot
+
+
+
+
+
